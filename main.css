@@ -1,0 +1,15 @@
+/* min-width = starting from */
+
+/* max-width = upto end */
+
+.body-one {
+  /* background: #ff9347 !important; */
+  /* background: url("https://images.unsplash.com/photo-1516796181074-bf453fbfa3e6?ixid=MnwxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8&ixlib=rb-1.2.1&auto=format&fit=crop&w=2070&q=80"); */
+  background-image: url("./images/draw.png");
+  background-repeat: no-repeat;
+  background-size: contain;
+  background-position: left left;
+}
+.ss {
+  height: 40px !important;
+}
